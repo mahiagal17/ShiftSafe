@@ -222,43 +222,40 @@ AI / ML:
 
 STEP 1 ── REGISTRATION
 
-│ Open ShiftSafe → Enter mobile number                     │
-│ → OTP verification (Firebase Auth)                       │
-│ → Select delivery zone (city + area)                     │
-│ → Enter average daily earnings                           │
-│ → Link UPI ID for payments                               │
-│ → Profile created                                        │
-                          │
-                          ▼
+Open ShiftSafe → Enter mobile number
+ → OTP verification (Firebase Auth)
+ → Select delivery zone (city + area)
+ → Enter average daily earnings
+ → Link UPI ID for payments
+ → Profile created
+
 STEP 2 ── FIRST SUNDAY NIGHT
 
-│ AI runs weekly forecast for the selected zone            │
-│ → Risk Score: 72 / 100 (High)                            │
-│ → Pro Shield recommended (₹95/week · max ₹1,800)         │
-│ → Worker receives notification                           │
-│ → Activates plan with one tap                            │
-│ → Premium deducted at midnight                           │
-│ → Coverage starts from Monday                            │
-                          │
-                          ▼
+AI runs weekly forecast for the selected zone
+ → Risk Score: 72 / 100 (High)
+ → Pro Shield recommended (₹95/week · max ₹1,800)
+ → Worker receives notification
+ → Activates plan with one tap
+ → Premium deducted at midnight
+ → Coverage starts from Monday
+                        
 STEP 3 ── DURING THE WEEK
 
-│ Worker checks Live Protection Meter                      │
-│ → Heavy rain detected in the area                        │
-│ → Risk crosses threshold → Coverage activates            │
-│ → Dashboard shows active protection                      │
-│ → 4 hours of disruption recorded                         │
-│ → Payout calculated automatically                        │
-│ → Amount credited to UPI                                 │
-                          │
-                          ▼
+Worker checks Live Protection Meter
+ → Heavy rain detected in the area
+ → Risk crosses threshold → Coverage activates
+ → Dashboard shows active protection
+ → 4 hours of disruption recorded
+ → Payout calculated automatically
+ → Amount credited to UPI
+                          
 STEP 4 ── SUNDAY SUMMARY
 
-│ Worker views Weekly Earnings Summary                     │
-│ → Total hours worked and disrupted                       │
-│ → Earnings protected and payout received                 │
-│ → Insurance streak updated                               │
-│ → Next week forecast and recommendation shown            │
+Worker views Weekly Earnings Summary
+ → Total hours worked and disrupted
+ → Earnings protected and payout received
+ → Insurance streak updated
+ → Next week forecast and recommendation shown
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
