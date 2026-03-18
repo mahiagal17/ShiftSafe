@@ -221,14 +221,13 @@ AI / ML:
 ## User Journey
 
 STEP 1 ── REGISTRATION
-┌──────────────────────────────────────────────────────────┐
+
 │ Open ShiftSafe → Enter mobile number                     │
 │ → OTP verification (Firebase Auth)                       │
 │ → Select delivery zone (city + area)                     │
 │ → Enter average daily earnings                           │
 │ → Link UPI ID for payments                               │
 │ → Profile created                                        │
-└──────────────────────────────────────────────────────────┘
                           │
                           ▼
 STEP 2 ── FIRST SUNDAY NIGHT
