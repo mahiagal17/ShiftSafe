@@ -231,7 +231,7 @@ STEP 1 ── REGISTRATION
                           │
                           ▼
 STEP 2 ── FIRST SUNDAY NIGHT
-┌──────────────────────────────────────────────────────────┐
+
 │ AI runs weekly forecast for the selected zone            │
 │ → Risk Score: 72 / 100 (High)                            │
 │ → Pro Shield recommended (₹95/week · max ₹1,800)         │
@@ -239,11 +239,10 @@ STEP 2 ── FIRST SUNDAY NIGHT
 │ → Activates plan with one tap                            │
 │ → Premium deducted at midnight                           │
 │ → Coverage starts from Monday                            │
-└──────────────────────────────────────────────────────────┘
                           │
                           ▼
 STEP 3 ── DURING THE WEEK
-┌──────────────────────────────────────────────────────────┐
+
 │ Worker checks Live Protection Meter                      │
 │ → Heavy rain detected in the area                        │
 │ → Risk crosses threshold → Coverage activates            │
@@ -251,17 +250,16 @@ STEP 3 ── DURING THE WEEK
 │ → 4 hours of disruption recorded                         │
 │ → Payout calculated automatically                        │
 │ → Amount credited to UPI                                 │
-└──────────────────────────────────────────────────────────┘
                           │
                           ▼
 STEP 4 ── SUNDAY SUMMARY
-┌──────────────────────────────────────────────────────────┐
+
 │ Worker views Weekly Earnings Summary                     │
 │ → Total hours worked and disrupted                       │
 │ → Earnings protected and payout received                 │
 │ → Insurance streak updated                               │
 │ → Next week forecast and recommendation shown            │
-└──────────────────────────────────────────────────────────┘
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
